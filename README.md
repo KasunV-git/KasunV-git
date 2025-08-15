@@ -4,10 +4,7 @@
 💞️ I’m looking to collaborate on Python projects related to data science.
 
 ![GitHub followers](https://img.shields.io/github/followers/KasunV-git?label=Followers&style=social)
-## 👥 Followers
-<!-- FOLLOWERS-SECTION:START -->
-Loading followers...
-<!-- FOLLOWERS-SECTION:END -->
+
 
 
 ## 🌐 Socials:
