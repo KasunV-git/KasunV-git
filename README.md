@@ -12,16 +12,31 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/kasun-gunawardhana-212705316) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@spectrum_sl) 
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/-?logo=typescript&style=flat-square&logoColor=white&color=3178C6" height="40">
+  <img src="https://img.shields.io/badge/-?logo=javascript&style=flat-square&logoColor=white&color=F7DF1E" height="40">
+  <img src="https://img.shields.io/badge/-?logo=nextdotjs&style=flat-square&logoColor=white&color=000000" height="40">
+  <img src="https://img.shields.io/badge/-?logo=react&style=flat-square&logoColor=white&color=61DAFB" height="40">
+  <img src="https://img.shields.io/badge/-?logo=nodedotjs&style=flat-square&logoColor=white&color=339933" height="40">
+  <img src="https://img.shields.io/badge/-?logo=spring&style=flat-square&logoColor=white&color=6DB33F" height="40">
+  <img src="https://img.shields.io/badge/-?logo=tailwindcss&style=flat-square&logoColor=white&color=06B6D4" height="40">
+  <img src="https://img.shields.io/badge/-?logo=mui&style=flat-square&logoColor=white&color=007FFF" height="40">
+  <img src="https://img.shields.io/badge/-?logo=html5&style=flat-square&logoColor=white&color=E34F26" height="40">
+  <img src="https://img.shields.io/badge/-?logo=css3&style=flat-square&logoColor=white&color=1572B6" height="40">
+  <img src="https://img.shields.io/badge/-?logo=java&style=flat-square&logoColor=white&color=ED8B00" height="40">
+  <img src="https://img.shields.io/badge/-?logo=python&style=flat-square&logoColor=white&color=3776AB" height="40">
+  <img src="https://img.shields.io/badge/-?logo=c&style=flat-square&logoColor=white&color=00599C" height="40">
+  <img src="https://img.shields.io/badge/-?logo=mongodb&style=flat-square&logoColor=white&color=47A248" height="40">
+  <img src="https://img.shields.io/badge/-?logo=mysql&style=flat-square&logoColor=white&color=4479A1" height="40">
+  <img src="https://img.shields.io/badge/-?logo=postgresql&style=flat-square&logoColor=white&color=4169E1" height="40">
+  <img src="https://img.shields.io/badge/-?logo=anaconda&style=flat-square&logoColor=white&color=44A833" height="40">
+  <img src="https://img.shields.io/badge/-?logo=git&style=flat-square&logoColor=white&color=F05032" height="40">
+  <img src="https://img.shields.io/badge/-?logo=figma&style=flat-square&logoColor=white&color=F24E1E" height="40">
+  <img src="https://img.shields.io/badge/-?logo=visualstudiocode&style=flat-square&logoColor=white&color=007ACC" height="40">
+  <img src="https://img.shields.io/badge/-?logo=intellijidea&style=flat-square&logoColor=white&color=000000" height="40">
+  <img src="https://img.shields.io/badge/-?logo=postman&style=flat-square&logoColor=white&color=FF6C37" height="40">
+</p>
+
 
 
 # 📊 GitHub Stats:
