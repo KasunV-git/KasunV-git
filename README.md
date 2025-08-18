@@ -1,10 +1,6 @@
-# 💫 About Me:
-👋 Hi, I’m Kasun Vinod<br>👀 I’m interested in data science and analytics<br>
-🌱 I’m currently learning Python and Java<br>
-💞️ I’m looking to collaborate on Python projects related to data science
-
-
-
+# 💫 Hi, I'm Kasun Vinod
+🎓 Software Engineering Undergraduate | 🚀 Tech Explorer | 💻 AI & ML Enthusiast
+</br>
 
 
 
@@ -16,6 +12,7 @@
 <a href="https://medium.com/@https://medium.com/@spectrum_sl">
 <img src="https://github.com/Medium/medium-logos/blob/master/01_Logo/02_White/PNG/RGB/Medium-Logo-White-RGB%401x.png" width="200" height="60"/>
 </a>
+</br>
 
 # 💻 Tech Stack:
 <p>
@@ -29,6 +26,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/>
 </p>
+</br>
+
+# 📚 Currently Learning:
+<ul>
+  <li>Application Development</li>
+  <li>Networking Fundamentals</li>
+  <li>AI and Machine Learning</li>
+  <li>Data Strucutres and Algorithms</li>
+</ul>
+</br>
+
+# 💡Passions:
+<ul>
+  <li>Problem Solving and Debugging</li>
+  <li>Practicing Logical Thinking</li>
+  <li>Exploring new tech trends</li>
+  <li>Open Source Contributions</li>
+</ul>
+</br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KasunV-git&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
