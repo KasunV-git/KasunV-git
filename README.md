@@ -14,7 +14,7 @@
 </a>
 </br>
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60"/>
@@ -28,7 +28,7 @@
 </p>
 </br>
 
-# 📚 Currently Learning:
+## 📚 Currently Learning:
 <ul>
   <li>Application Development</li>
   <li>Networking Fundamentals</li>
@@ -37,7 +37,7 @@
 </ul>
 </br>
 
-# 💡Passions:
+## 💡Passions:
 <ul>
   <li>Problem Solving and Debugging</li>
   <li>Practicing Logical Thinking</li>
@@ -46,7 +46,7 @@
 </ul>
 </br>
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KasunV-git&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=KasunV-git&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=KasunV-git&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
