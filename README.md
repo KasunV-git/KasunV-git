@@ -9,7 +9,7 @@
   <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/linkedin/linkedin-original.svg" width="60" height="60"/>
 </a>
  
-<a href="https://medium.com/@https://medium.com/@spectrum_sl">
+<a href="https://medium.com/@spectrum_sl">
 <img src="https://github.com/Medium/medium-logos/blob/master/01_Logo/02_White/PNG/RGB/Medium-Logo-White-RGB%401x.png" width="200" height="60"/>
 </a>
 </br>
